@@ -10,3 +10,7 @@ A simple backend REST API for a blog built using NestJS, Prisma, PostgreSQL and 
 3. Apply database migrations: `npx prisma migrate dev` 
 4. Start the project:  `npm run start:dev`
 5. Access the project at http://localhost:3000/api
+
+### GUIDE
+
+Find detailed instructions from [Prisma blog post](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
